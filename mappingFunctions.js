@@ -14,7 +14,7 @@
  * Fixed Point Coords
  * StationID - 6 digit (this should acutally be the fixedpoint GPS
  * Last Reading - timestamp of last data post
- * 
+ *
  */
 
 
